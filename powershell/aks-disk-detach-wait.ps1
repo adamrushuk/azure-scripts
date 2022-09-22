@@ -2,8 +2,8 @@
 
 # vars
 $subscriptionName = ""
-$aksClusterName = ""
 $aksClusterResourceGroupName = ""
+$aksClusterName = ""
 $pvcName = ""
 
 # login
