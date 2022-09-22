@@ -1,2 +1,3 @@
 # azure-scripts
-A collection of Bash and PowerShell scripts for Azure
+
+A collection of Bash and PowerShell scripts for Azure.
